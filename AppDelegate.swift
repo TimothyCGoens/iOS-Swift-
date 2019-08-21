@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Magic 8 Ball
+//  Auto Layout Calculator
 //
-//  Created by Tim Goens on 8/9/19.
+//  Created by Tim Goens on 8/15/19.
 //  Copyright © 2019 Tim Goens. All rights reserved.
 //
 
